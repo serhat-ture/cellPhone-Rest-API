@@ -6,6 +6,13 @@ In this project are used Spring Boot + PostgreSQL + JPA/Hibernate.
 
 Before development, make sure that the PostgreSQL database is installed on your machine, and then  create  a product database.
 
+## 🚀 About Me - Author
+
+
+- [@serhat-ture](https://github.com/serhat-ture)
+
+
+
 # Testing REST APIs via Postman Client
 
 1. Create Product REST API
