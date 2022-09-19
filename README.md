@@ -52,6 +52,7 @@ Request URL: http://localhost:8080/product/Iphone13
 
 
 # Sample json
+```
 [
     {
         "id": 1,
@@ -90,4 +91,4 @@ Request URL: http://localhost:8080/product/Iphone13
         "price": 5000.0
     }
 ]
-
+```
